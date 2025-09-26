@@ -9,4 +9,4 @@ This is my first local change to the repo!
 ###### Header 6
 **Bold Text** or __Bold Text__
 *Italic Text* or _Italic Text_
-[An image of the Mona Lisa][readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg]
+[An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
